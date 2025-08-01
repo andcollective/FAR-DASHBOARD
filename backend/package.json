@@ -1,0 +1,18 @@
+{
+  "name": "zip-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parse": "^6.0.0",
+    "csv-stringify": "^6.6.0",
+    "express": "^5.1.0"
+  }
+}
